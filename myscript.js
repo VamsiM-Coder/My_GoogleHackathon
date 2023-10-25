@@ -6,7 +6,7 @@ function initMap(){
         mapTypeId: "terrain"
     });
     const features=[
-        // By previous 5 years accident prone area data we analyse top location in each district in punjab state. 
+        // By Last 5 years accident prone areas data we analyse top locations in  each district at punjab state. 
         {
             position: new google.maps.LatLng(30.824905, 75.152947),
             content:"<p>Near Nestle Canal Bridge,Moga Dt</p>"
